@@ -95,3 +95,114 @@ I think I will take one of these courses.
 Try to get a certification and build your skills. 
 Will take a month to learn to basics. Lets get going. 
 #AN INVESTMENT IN KNOWLEDGE ALWAYS PAYS BEST INTEREST 
+I have decided to take a online Python course with certification for free let's get started. I will write important imformation below. 
+INTRO TO PYTHON 
+#PYthon is a free and open source program. Plug and Play. 
+It is open source. 
+#Open source means you can modify the code. 
+Python is cross platform compatible 
+#Cross Platform Compatible: Can run language on any operating system. Windows, Max ... doesn't matter. 
+I am going to download python for easier access. 
+Python has begun downloading. We will naviate the site shorlty. 
+#IDE: interactive develpment elignment 
+My Anaconda navigator don't want none unless you got buns hun 
+#Introduction to juniper notebook 
+Do I need a juniper notebook? 
+shorcuts exist 
+Example of a code you can create 
+#print("thisisspartaaaaaaaa") the click run to run your code 
+thats a python code, were on our way to hacking NASA systems LETS GOOOOO 
+#Variables and Data types in Python 
+How do we store data? 
+We store them in variables 
+Another example of creating a code in python from the course 
+# employee_name " "Kamran" employee_name then you run code. We are inventing as we go. So if it is working properly you would have types out the original code "Kamran" employee_name and then when you write employee_name "Kamran" should pop up. 
+the variable is a temporary storage place. When you change the name when you put employee name again a different name will pop up. 
+Heres some other examples I am creating myself using the above example as a reference. 
+# favourite color "green" favourite_color and then when you write favourite_color "green should pop up. here are more examples below.
+#Dogs name "Kovu" Dogs_name "Kovu" and then when you write Dogs_name "Kovu should pop up. We are getting smarter and more wise as we go. 
+Every variable is associated with a #Data type look at the different data types below. 
+#int: 10,500. Can have minus 1 minus hundred. 500 thousand etc.
+#float: 3.14,15.97 sounds like pie to me. Numbers with are decimal points. 1.9848 doesnt matter.
+#Boolean: TRUE,FALSE. Treu and false values. 
+#String: "Sam", "Matt". Characters kind of data. 
+Lets practice below with the different kind of data 
+#int example: a1= 100
+              a1
+              100             
+lets test out type functions. type(a1) when you click run will be like int. 
+a1=3.14
+type(a1) when you click ruun float should appear. 
+More examples below 
+a1=True 
+a1=
+true 
+type(a1)
+bool
+#string example 
+a1= "spartaaaa!!" (we just stored spartaaaa)
+a1
+'spartaaaa!!"
+type(a1) run 
+str
+#complex numbers example will have real and imaginary parts. 
+a1=3+5j
+a1
+(3+5)
+type(a1) run will appear as 
+complex 
+#OPERATORS IN PYTHON 
+#Arithemitic operators a=10 b=20 run you have plus minus multiplication and division. 
+first arithemic operator is addition 
+a+b run (so 10 plus 20) 
+30 because 10 is stored in A and 20 is stored in B 
+next arithimitic operator subtraction 
+a-b run
+-10 
+NOTE** a-b and b-a will get you different results 
+b-a run 
+10 
+Third type of arithemetic operator multiplication 
+NOTE * (star) means multiplication) 
+a*b 
+200 
+Fourth artithemetic operator division 
+NOTE* / means division 
+a/b run 
+0.5 
+we are moving onto the next kind of operator 
+#Relational Operators this includes < and > greater than and less than as well as equal to and not equal to. Symbols for these to come later. 
+Once again a=10 b=20 
+a>b run 
+False because 10 is not greater than 20 silly salmon sausage. 
+a<b 
+True because 10 is less than 20. 
+a==b using two equal symbols to see if equal to eachother 
+false because 10 is not equal to 20 
+NOTE = means equal ! (explanation mark means not equal) 
+lets try a is not equal to b. 
+a!=b run  
+True because 10 is not equal to 20. 
+Can play around and change the values of a and b to get differet results 
+#LOGICAL OPERATORS "and", "or" and "not" and and & same thing. 
+&
+a=true 
+b= False run 
+a&b  (true and false) will give us a false value because one of the operants is false. Run 
+false 
+b&a 
+false 
+b&b run 
+false (bs are both false) 
+a&a run
+True 
+Note | is a pipe operator stands for or. 
+| true. 
+a|b run 
+True. It is true because at least one of the operants represented by a number is true. 
+b|a run 
+True 
+a|a run 
+true because both operants are true 
+b|b  run 
+False because both operants are false. 
