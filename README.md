@@ -206,3 +206,126 @@ a|a run
 true because both operants are true 
 b|b  run 
 False because both operants are false. 
+#TOKENS IN PYTHON smallest meaningful components in a program. The four tokens include 
+#Keywords
+#Identifiers 
+#Literals 
+#Operators 
+#KEYWORDS are special reserved words such as 
+#False 
+#None
+#True 
+#and 
+#as
+#class
+#continue
+#def
+#del 
+#elif
+#Finally 
+#is 
+#For 
+#From 
+#Global 
+#iF
+#Is 
+#Lambda
+#Nonlocal 
+#Not 
+#or
+#Return 
+#Try 
+#While 
+#With 
+#Yield 
+they give meaningful information. Special word performs special function. Errors occur when theres a duplicate word that is also a special key word. The computer never lies. 
+when there is a key word and you click Run a special script will run since it is a key word. 
+#Identifiers are names used for variables functions or objects.
+#Rules for identifiers... no special character except _ underscore, identifiers are case sensitive, first letter cannot be a didget. 
+#Example 
+Lisa=" I am Lisa" run 
+lisa="I am l" run 
+Lisa run 
+"I am lisa" 
+lisa run 
+"I am l" 
+#NOTE the capatilization of L and l is making a difference once you run your script. Different results appear. Pay attention to detail! 
+#NOTE literals are constant in Python 
+A ... I AM A CONSTANT I DON'T CHANGE 
+#STRINGS IN PYTHON 
+#Python Strings are a sequence of characters enclosed within single quotes ('') double quotes ("") or triple quotes (("'"') 
+example single quotes 'Hello World' 
+example double quotes "This is Sparta" 
+example triple quotes "' I am going to france tomorrow"' 
+More examples 
+s1= 'Hello World'run 
+s1 run 
+'Hello World' 
+type (s1) run 
+str
+s1= "This is spartaaaa" 
+s1 run 
+"This is spartaaaa" 
+type (s1) 
+str
+s1= "'this is multiline
+string
+"'
+s1
+' this is multiline\nstring\n'
+my_string= "My name is Kamran" 
+My string [0]
+You can extract certain characters from the sentence 
+for example 
+my_string "My name is Kamran" 
+my_string [0]
+"M"
+You have three basick string functions 
+#Finding length of string 
+#Converting string to lower case 
+#Converting string to upper case 
+They are talking about the nitty gritty about this will go into details when comes the time. 
+#Python Tuples 
+#DATA STRUCTURE IN PYTHON 
+Tuple, list,dictionary,set 
+#TUPLE is a order ofcollection of elements enclosed with ()
+#TUPLES ARE IMMUTABLE GOD DAMNIT THEY DONT HAVE EMOTIONS or in other words cant change there values. 
+ex. tup1= (1,'a,True) differnt data we learned earlier now all in one. 
+Creating a tuple example 
+#Tuple
+tup(1,"a",True,2,"b"False) run 
+tup 1
+(1,a, True,2,'b',False) 
+type(tup1) 
+tuple is a tuple. 
+can extract individual elements. 
+#List in python 
+#LISTS are an ordered collection of ordered elements enclosed with []
+LISTS ARE WHAT? LISTS ARE MUTUABLE 
+In order words can be modifiable 
+Example l1[,"sparta,3.14,True,3+5j] 
+l1
+type (l1) 
+list
+#DICTIONARY is a unordered collecion of key-value pairs enclosed with {}mutable 
+example fruit = {'apple':50,'banana',:30'orange':40'peach':100}
+#SET in python is an unordered and unindexed collection of elements enclosed with {}
+NOTE duplicates are not allowed in set 
+#If statements in python 
+pick between two options. 
+ex. If its raining stay inside. If its not raining go outside and platy football. 
+Example 
+a=10
+b=20 
+if a>b:
+print ("a is greater than b") 
+if b>a: 
+print ("b is greaer than a") 
+if a<b:
+print ("a is less than b") 
+if b<a:
+print ("a is not greater than b") 
+#LOOPING STATEMENTS IN PYTHON 
+used to repeatthe task multipple times 
+While Loops 
+While condition: execute statement 
