@@ -329,3 +329,18 @@ print ("a is not greater than b")
 used to repeatthe task multipple times 
 While Loops 
 While condition: execute statement 
+#Basic Problems in Python 
+Lets just try not to have them! But rememebr the computer is always right. Its going to typically come up red. 
+#Functions in Python 
+#Function is a block of code whoch performs a specific task 
+#Deposit: function to deposit money 
+#Withdraw: function to withdraw money 
+#Balance: Function to check balance 
+We creat funcitons for these (a shortcut) 
+#Normal function syntax: def fnction name - executive statements 
+#Lamda function syntax; lambda arguments: expression 
+Example def 
+def hello():
+print ('Hello World') run
+hello()
+Hello World 
