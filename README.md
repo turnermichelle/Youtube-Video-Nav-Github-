@@ -344,3 +344,7 @@ def hello():
 print ('Hello World') run
 hello()
 Hello World 
+#Intro to Object Oriented Programming in Python 
+Attributs vs Methods 
+A example ex color, cost 
+Methods ec Play game, mae call 
