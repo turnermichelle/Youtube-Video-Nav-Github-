@@ -347,4 +347,68 @@ Hello World
 #Intro to Object Oriented Programming in Python 
 Attributs vs Methods 
 A example ex color, cost 
-Methods ec Play game, mae call 
+Methods ec Play game, mae call ![327040296_907535397051252_4037680980291462420_n](https://user-images.githubusercontent.com/123103772/214137420-82d41557-96b4-415f-9b99-57a4813668e1.jpg)
+
+
+we are in the C language 
+
+
+![cheat code]()  Picture for my reference 
+
+https://user-images.githubusercontent.com/123103772/214137643-e25cccf4-1461-4428-b454-8ce4c4c1cd29.jpg
+
+mkdir = is make directory 
+
+#Linux commands 
+
+#Format codes 
+%c = 
+
+We can mae  a calculator 
+
+its essentially learning the syntax and once you understand the language coding will become easier 
+sometimes the computer will finish the thought for you 
+#integer overflow 
+
+{} represents bullean expression 
+%F 
+%i 
+%1I 
+%s 
+is #SYNTANTIC SUGAR YUMMY 
+
+Here is a example of # Syntactic sugar 
+ chnage counter by 1 counter++; 
+ Scratch and C accomplish the same goal in a different language 
+ 
+magic number 
+
+conditionals, loops? 
+string is double quotes for multiple characters 
+single characters are chars 
+
+four loop in C 
+
+for (int i =0; i < 3; i++) 
+{ printf("meow\n"); 
+} 
+mario.c 
+
+Mario is a coded game, seems obvious but its not to me 
+
+Floating point impersition 
+the inability for computers to represent all numbers but their is solutions 
+I am getting confused I not smart :( 
+bit
+
+what is the Y 2k problem??? 
+
+This course is saying the world might end again 19 january 2038 what the heck lol 
+can only ocunt 
+
+clocks might break at 2 billion seconds lol 
+
+now he said well be dead before other problems occur in our lifetime thats sad
+
+Wait you code planes to fly? 
+
