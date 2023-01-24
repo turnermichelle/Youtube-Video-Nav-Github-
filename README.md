@@ -412,3 +412,281 @@ now he said well be dead before other problems occur in our lifetime thats sad
 
 Wait you code planes to fly? 
 
+here are some #important pictures from![327215747_676969864218494_1590052265368675182_n](https://user-images.githubusercontent.com/123103772/214282088-999da673-1dd0-427b-8d48-6d9006a31fa6.jpg)
+week 1
+
+![327162132_1180915269464817_![327170120_1575077446250552_4260963299400082240_n](https://user-images.githubusercontent.com/123103772/214282062-205afc86-17b7-481e-b60a-d4c1651fb1f1.jpg)
+6447169053039192165_n](https://user-images.githubusercontent.com/123103772/214282025-76b15007-167b-41a0-883b-f93b79da649b.jpg)
+![327163652_419406560362633_3897857245774121576_n](https://user-images.githubusercontent.com/123103772/214282125-8be98e13-7abc-466b-ae70-feddb69dfdf2.jpg)
+
+
+![327163652_419406560362633_3897857245774121576_n](https://user-images.githubusercontent.com/123103772/214282181-f702d2ee-3555-4562-8de8-0de156f7cf23.jpg)
+![326569142_3312812218959242_7272377702951038352_n](https://user-images.githubusercontent.com/123103772/214282218-2e8ac0a2-1067-46ba-8260-e60612f2a8a9.jpg)
+![327310761_626500892614145_1687572067245324130_n](https://user-images.githubusercontent.com/123103772/214282261-f911de9f-5757-483d-8745-1aada47e4dee.jpg)
+![327051311_168286510879![327318239_3360139510905711_2402021996424379347_n](https://user-images.githubusercontent.com/123103772/214282416-2f76fe04-8407-49ce-81cc-b7d58ffee8ff.jpg)
+4612_2293125916563340034_n](https://user-images.githubusercontent.com/123103772/214282291-00e46ff0-24ab-4375-abb6-e99ecb3e89eb.jpg)
+![327008548_695774098764643_4345851639678989527_n](https://user-images.githubusercontent.com/123103772/214282317-48242049-5410-4338-b416-413916db333e.jpg)
+![327309978_1239245749996929_6782090369451420896_n](https://user-images.githubusercontent.com/123103772/214282350-c46fe8b5-7110-49e3-8706-f34dff7f950a.jpg)
+![327111576_911582549854777_4639595160648215376_n](https://user-images.githubusercontent.com/123103772/214282390-a575d38b-a292-49d3-a766-b6e423a14081.jpg)
+![325456366_1257459285188503_2881310159546771943_n](https://user-images.githubusercontent.com/123103772/214282448-e41bdfb9-8ccb-4062-9b57-8dcc09bd7dd2.jpg)
+![327164395_443079137944629_6455383236851700409_n](https://user-images.githubusercontent.com/123103772/214282476-5a4e9f6c-c73b-4c8a-9b5f-ad0ae85718fa.jpg)
+![326355278_577774937528725_9121326766228620759_n](https://user-images.githubusercontent.com/123103772/214282506-770b3367-97a8-4ff6-b7d1-13ff8445466b.jpg)
+![327307102_935200624136521_2187341419201293863_n](https://user-images.githubusercontent.com/123103772/214282534-71560730-4cb7-405c-b263-d2b96e7d2a26.jpg)
+
+#WEEK 2 ARRAYS 
+
+BINARY is machine code 
+
+clang clang 
+
+example again of the start point for code/ first program 
+
+#include <studio.h> 
+
+in main(void) 
+{ 
+printf(hello,world\n");
+}
+
+Im going to tryp this a lot of times right now and try to memorize this program in C 
+
+#include <studio.h> 
+in main(void) 
+{
+printf(helloe,world\n");
+}  
+
+theres my first program written try again 
+
+#include<studio.h>
+
+#incoude<studio.h> 
+
+#include<studio.h>
+
+#include <studio.h> 
+
+#include <studio.h> 
+#include <stdio.h> 
+
+#include <stuidio.h> 
+in main (void) 
+in main(void) 
+in main (void) 
+
+#include <studio.h> 
+in main (void) 
+
+#include<studio.h> 
+in main (void) 
+{
+printf(hello,world\n");
+} 
+
+
+include <studio.h> 
+in(main) void 
+{
+printf(hello,world\n");
+} 
+
+include<studio.> 
+
+include<studio.h>
+in(main)void
+{
+printf("hello,world"/n)
+}
+
+Ok I think I have a program in C memorized 
+
+here is my first real attempt 
+
+#include<studio.h>
+in(main) void 
+{
+printf("hello,world"/n);
+}
+
+YAY we did it keep on practicing 
+
+every 10 minutes ill set a timer to see of I memorized 
+
+can modify program to include string but that's a bit complex at the moment ... one thing at a time 
+
+-lcs50 makes machine code into source code (compiled) the zeros and ones (binary)
+
+commands will eventually get longer and longer and more confusing
+
+#pre processing 
+#compiling 
+#assembling 
+#linking 
+
+TEST TIME 
+
+include<stdio.h>
+main(void)
+{
+printf("hello,world"/n)
+}
+
+close. You forgot in. 
+
+compiling takes craziness and makes it legiable 
+
+assembly language is back then C is now assemble code turns into zeros and ones 
+
+central processing unit 
+
+pre preocessing finds and replacing pre processing symbols 
+
+has own instruction sets 
+
+linking think of the word itself you are essentially linking code 
+
+debugging techniques 
+
+Grace Hopper (real bug in computer) real bug caused a issue 
+
+Debug50  
+
+i sneezed 
+
+install a debugging tool 
+
+will be our bestest friend at some point will fix stuff automatically at someponit 
+
+RUBBER DUCK DEBUGGING 
+this involves looking at your code and talking it through if no one else is availible 
+
+so i need to buy a rubber duck 
+you'll realize you said something wrong. Illogical code may come out . 
+#Step over means step over each line of code. 
+
+its stdio not studio 
+
+curley braces {
+
+setting a break point 
+
+TEST TIME 
+
+include<stdio.h>
+main(void)
+printf
+{
+("hello,world"/n)
+} 
+
+close but not quite right 
+
+types 
+
+we just did scratch into C 
+
+somethings don't exist in scratch 
+
+RAM 
+random access memory 
+
+TEST TIME 
+
+include<stdio.h>
+main(void) 
+printf
+{
+("hello,world/n")
+} 
+
+#ARRAY type of data lets you store multiple values of the same types back to back to back 
+here is a example if a array 
+
+int scores [3];#
+they are zero index
+
+so it would be written as follows 
+
+int scores [3] 
+scores [0]=72;
+scores [1]=73;
+scores [2]=74; 
+
+code smell, 
+something smells a little off 
+
+arrays eleminate variables and just callapse into one variable in multiple locations 
+
+#CHARS 
+
+as you advance use the code you memorized and add different things into the curley brackets
+
+TEST  TIME 
+
+include<stdio>
+main(void)
+printf
+{
+("hello,world/n")
+} 
+
+Array of characters 
+
+create a string 
+string s="HI"; 
+
+#Nul character 
+where one string ends and another begins 
+#length.c 
+
+#MANUEL PAGES
+for functions... 
+GIVES YOU CHEAT SHEET OF HELPFUL FUNCTIONS IN C
+attached here 
+just search CS50 manuel pages 
+we attached earlier the DECIMAL ASSCR CHART
+
+Test! 
+include<stdio.h> 
+Inmain(void) 
+{
+printf
+("hello,world"/n) 
+} 
+
+Code has its own alphabet 
+ translates uppercase to lower case 
+ code space
+ 
+ command line argumetns change the argument of the command 
+ 
+ test 
+ insert<stdio.h>
+ main(void)
+ {
+ (printf,"hello,world"/n)
+ } 
+ 
+ you can make your code make command line arguments 
+ can crash programs deliberaltley? 
+ #EXIT STATUS 
+ 
+ insert<stdio.h>
+ Inmain(void) 
+ {
+ printf("hello,world"/n)
+ }
+
+ another code 
+ #include <stdio.h>
+ int main (int argc, string argv[])
+ {
+ ...
+ } 
+ Readability 
+ cyptography involves hiding a message it is encripted a secret message so others may ot be able to understand it 
+ 
+ PLAIN TEXT-> CIPHER->CIPHERTEXT 
+ 1_>
+ Hi->                   -> IJ! 
+ confirm what reverse engineering  is 
