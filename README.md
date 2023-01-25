@@ -690,3 +690,210 @@ Code has its own alphabet
  1_>
  Hi->                   -> IJ! 
  confirm what reverse engineering  is 
+
+TEST! even tho its late 
+
+include<stdio.h>
+inmain(void)
+{
+printf("hello,world"\n)
+}
+
+close but not there yet
+
+![image](https://user-images.githubusercontent.com/123103772/214480203-faf1e390-ac40-451c-a3f9-de2756619fcc.png)
+
+We can write pseudocode, which is a representation of our algorithm in precise English (or some other human language):
+1  Pick up phone book
+2  Open to middle of phone book
+3  Look at page
+4  If person is on page
+5      Call person
+6  Else if person is earlier in book
+7      Open to middle of left half of book
+8      Go back to line 3
+9  Else if person is later in book
+10     Open to middle of right half of book
+11     Go back to line 3
+12 Else
+13     Quit
+
+With these steps, we check the middle page, decide what to do, and repeat. If the person isn’t on the page, and there’s no more pages in the book left, then we stop. And that final case is particularly important to remember. When programs or code don’t include that final case, they might appear to freeze or stop responding, or continue to repeat the same work over and over without making any progress.
+Some of these lines start with actions or verbs that solve a smaller problem. We’ll start calling these functions:
+1  Pick up phone book
+2  Open to middle of phone book
+3  Look at page
+4  If person is on page
+5      Call person
+6  Else if person is earlier in book
+7      Open to middle of left half of book
+8      Go back to line 3
+9  Else if person is later in book
+10     Open to middle of right half of book
+11     Go back to line 3
+12 Else
+13     Quit
+We also have branches that lead to different paths, like forks in the road, which we’ll call conditionals:
+1  Pick up phone book
+2  Open to middle of phone book
+3  Look at page
+4  If person is on page
+5      Call person
+6  Else if person is earlier in book
+7      Open to middle of left half of book
+8      Go back to line 3
+9  Else if person is later in book
+10     Open to middle of right half of book
+11     Go back to line 3
+12 Else
+13     Quit
+And the questions that decide where we go are called Boolean expressions, which eventually result in answers of yes or no, or true or false:
+1  Pick up phone book
+2  Open to middle of phone book
+3  Look at page
+4  If person is on page
+5      Call person
+6  Else if person is earlier in book
+7      Open to middle of left half of book
+8      Go back to line 3
+9  Else if person is later in book
+10     Open to middle of right half of book
+11     Go back to line 3
+12 Else
+13     Quit
+
+astly, we have words that create cycles, where we can repeat parts of our program, called loops:
+1  Pick up phone book
+2  Open to middle of phone book
+3  Look at page
+4  If person is on page
+5      Call person
+6  Else if person is earlier in book
+7      Open to middle of left half of book
+8      Go back to line 3
+9  Else if person is later in book
+10     Open to middle of right half of book
+11     Go back to line 3
+12 Else
+13     Quit
+
+IT APPEARS THE FIRST PROGRAM I KNOW TO WRITE IS JUST HAVIVING THE COMPUTER PRINT  HELLO WORLD  TO THE SCREEN 
+
+include<stdio.h>
+insert(main)void
+{
+printf("hello,world/n")
+}
+
+You memorized the Hello world program in C congratulations 
+
+#include <stdio.h>
+
+int main(void)
+{
+    printf("hello, world\n");
+}<img width="486" alt="highlighting" src="https://user-images.githubusercontent.com/123103772/214482209-2f9f7606-f9eb-4a53-9fd6-883468192e32.png">
+
+bool, a Boolean expression of either true or false
+char, a single character like a or 2
+double, a floating-point value with more digits than a float
+float, a floating-point value, or real number with a decimal value
+int, integers up to a certain size, or number of bits
+long, integers with more bits, so they can count higher than an int
+string, a string of characters
+
+code calculator.c
+
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    int x = get_int("x: ");
+    int y = get_int("y: ");
+    printf("%i\n", x + y);
+}
+helpful to write notes to yourself 
+
+conditional bollean expression 
+
+if (x < y)
+{
+    printf("x is less than y");
+}
+
+if (x < y)
+{
+    printf("x is less than y\n");
+}
+else
+{
+    printf("x is not less than y\n");
+}
+
+if
+x
+<
+y
+then
+say
+x is less than y
+else
+say
+x is not less than y
+if (x < y)
+{
+    printf("x is less than y\n");
+}
+else
+{
+    printf("x is not less than y\n");
+    
+    We’ll write another program called parity.c:
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    int n = get_int("n: ");
+
+    if (n % 2 == 0)
+    {
+        printf("even\n");
+    }
+    else
+    {
+        printf("odd\n");
+    }
+}
+
+We’ll look at another program, agree.c:
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    // Prompt user to agree
+    char c = get_char("Do you agree? ");
+
+    // Check whether agreed
+    if (c == 'Y' || c == 'y')
+    {
+        printf("Agreed.\n");
+    }
+    else if (c == 'N' || c == 'n')
+    {
+        printf("Not agreed.\n");
+    }
+}
+
+LOOP FUNCTION 
+
+#include <stdio.h>
+
+int main(void)
+{
+    printf("meow\n");
+    printf("meow\n");
+    printf("meow\n");
+}
