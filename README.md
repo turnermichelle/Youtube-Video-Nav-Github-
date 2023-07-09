@@ -900,8 +900,13 @@ int main(void)
     printf("favcolorgreen
     int main(void) 
     <studio.h
+    int main(void) 
+    C++ 
     
     printf("meow\n");
 }
 
 Creating my own Code Space 
+printf("x is not less than y\n");
+printf("x is not less than y\n");
+inveted numbers cryptic and can not tell much
