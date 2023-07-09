@@ -895,6 +895,12 @@ int main(void)
 {
     printf("meow\n");
     printf("meow\n");
+    look up problems in python. Try C++ practice and relearn 
+    Learn how different branches work 
+    printf("favcolorgreen
+    int main(void) 
+    <studio.h
+    
     printf("meow\n");
 }
 
